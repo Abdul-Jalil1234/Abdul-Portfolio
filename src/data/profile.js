@@ -101,7 +101,7 @@ export const projects = [
     des: "A timed, scored quiz that matches incoming students to one of four software engineering specialisations: Low-Level Programming, AR/VR, Full-Stack and Machine Learning. Results appear as a radar chart and bar graph drawn directly on the Canvas API, with regex-validated forms and a light/dark theme.",
     tags: ["HTML5", "CSS3", "JavaScript", "Canvas API", "Regex"],
     image: "/projects/advisor.jpg",
-    github: "https://github.com/Abdul-Jalil1234/Front-End-Summative-Assessment",
+    github: "https://abdul-jalil1234.github.io/Bse-specialisation-Advisor/",
     live: "",
     role: "",
   },
@@ -110,7 +110,7 @@ export const projects = [
     des: "A multi-page website built with my team to communicate our mission: improving healthcare in underprivileged rural African communities by making safe drinking water more accessible. Features a preloader, a dark/light theme and mission, support, updates and contact pages.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/aquavitae.jpg",
-    github: "https://github.com/Abdul-Jalil1234/Aqua-Vitae-Website",
+    github: "https://github.com/Abdul-Jalil1234/Aqua-Vitae-Website.git",
     live: "",
     role: "Project lead · group project",
   },
@@ -134,7 +134,7 @@ export const miniProjects = [
     des: "The dice-rolling part of my Ludo game project. Choose how many dice to roll and see each result as a dice image, using a loop, Math.random() and DOM updates.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/dice.jpg",
-    github: "https://github.com/Abdul-Jalil1234/Ludo-game",
+    github: "https://abdul-jalil1234.github.io/Ludo-game/",
     live: "",
   },
   {
@@ -142,7 +142,7 @@ export const miniProjects = [
     des: "A calculator with digits, decimals and the four operators, a clear button, and an error message for invalid input.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/calc.jpg",
-    github: "https://github.com/Abdul-Jalil1234/calculator",
+    github: "https://abdul-jalil1234.github.io/calculator/",
     live: "",
   },
   {
@@ -150,7 +150,7 @@ export const miniProjects = [
     des: "A live 12-hour digital clock with AM/PM that updates every second, over a full-screen space background.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/clock.jpg",
-    github: "https://github.com/Abdul-Jalil1234/clock",
+    github: "https://abdul-jalil1234.github.io/clock/",
     live: "",
   },
   {
@@ -158,7 +158,7 @@ export const miniProjects = [
     des: "A stopwatch with start, stop and reset buttons that counts hours, minutes, seconds and hundredths of a second.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/stopwatch.jpg",
-    github: "https://github.com/Abdul-Jalil1234/stop-watch",
+    github: "https://abdul-jalil1234.github.io/stop-watch/",
     live: "",
   },
 ];
