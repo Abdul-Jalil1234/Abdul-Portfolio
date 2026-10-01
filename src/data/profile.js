@@ -110,7 +110,7 @@ export const projects = [
     des: "A multi-page website built with my team to communicate our mission: improving healthcare in underprivileged rural African communities by making safe drinking water more accessible. Features a preloader, a dark/light theme and mission, support, updates and contact pages.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/aquavitae.jpg",
-    github: "https://github.com/Abdul-Jalil1234/Aqua-Vitae-Website.git",
+    github: "https://abdul-jalil1234.github.io/Aqua-Vitae-Website/",
     live: "",
     role: "Project lead · group project",
   },
