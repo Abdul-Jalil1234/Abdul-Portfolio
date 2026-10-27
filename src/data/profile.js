@@ -13,14 +13,14 @@ export const profile = {
   initials: "AJ",
   titles: [
     "Software Engineering Student.",
-    "Web Developer.",
-    "Aspiring Software Engineer.",
+    "Full stack Web Developer.",
+    "Aspiring Senior Software Engineer.",
   ],
   heroBio:
-    "First-year Software Engineering student at the African Leadership College of Higher Education in Mauritius. I build web apps with JavaScript, React and Node.js, and I'm looking for an internship where I can keep learning and build real products with an engineering team.",
+    "I’m a full-stack software engineer with over three years of experience in React, TypeScript, Next.js, Node.js, Express, PostgreSQL and MongoDB, and I’m currently in the second year of my Bachelor’s degree in Software Engineering at African Leadership College of Higher Education,Mauritius. I’ve delivered projects end to end for real clients, including an e-commerce platform for supermarkets. I combine practical, client-facing experience with a growing academic foundation .And I'm  currently looking for  a job or internship where I can keep learning and building real products with an engineering team.",
   role: "Software Engineering Student",
   contactBio:
-    "Based in Pamplemousses, Mauritius. Open to software engineering internships. The quickest way to reach me is by email.",
+    "Based in Pamplemousses, Mauritius. Open to software engineering jobs and internships. The quickest way to reach me is by email.",
   location: "Pamplemousses, Mauritius",
   email: "fuseiniabduljalil180@gmail.com",
   phone: "+230 5455 5973",
@@ -45,9 +45,9 @@ export const navLinks = [
 
 export const about = {
   paragraphs: [
-    "I'm Abdul-Jalil Fuseini, a first-year Software Engineering student at the African Leadership College of Higher Education in Pamplemousses, Mauritius. I like turning ideas into working software, from small JavaScript projects to a back-end API with authentication.",
+    "I'm Abdul-Jalil Fuseini, a second-year Software Engineering student at the African Leadership College of Higher Education in Pamplemousses, Mauritius. I like turning ideas into working software, from small JavaScript projects to a back-end API with authentication.",
     "Before university, I represented my schools in quiz competitions: the National Brain Battle Quiz at junior high school, and the National Science & Maths Quiz at Tamale Senior High School, where I competed at the quarter-final stage of the national championship in 2023. It taught me to stay calm under time pressure and to work as part of a team.",
-    "Recently I led the team that built the Aqua Vitae website, earned IBM-issued certificates in web development, Python and SQL through Coursera, and completed a National Geographic and Nature Conservancy externship on marine conservation. I'm now looking for a software engineering internship.",
+    "Recently I led the team that built the Aqua Vitae website, earned IBM-issued certificates in web development, Python and SQL through Coursera, and completed a National Geographic and Nature Conservancy externship on marine conservation. I'm now looking for a software engineering jobs and internships.",
   ],
 };
 
@@ -189,7 +189,7 @@ export const education = [
     title: "Software Engineering",
     subTitle: "African Leadership College of Higher Education, Pamplemousses, Mauritius",
     result: "Year 1",
-    des: "First-year Software Engineering student. Coursework and projects include web development, Python, shell scripting and a specialisation advisor for the BSE programme.",
+    des: "Second-year Software Engineering student. Coursework and projects include web development, Python, shell scripting and a specialisation advisor for the BSE programme.",
   },
   {
     title: "Senior High School",
