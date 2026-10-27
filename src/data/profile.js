@@ -47,6 +47,7 @@ export const about = {
   paragraphs: [
     "I'm Abdul-Jalil Fuseini, a second-year Software Engineering student at the African Leadership College of Higher Education in Pamplemousses, Mauritius. I like turning ideas into working software, from small JavaScript projects to a back-end API with authentication.",
     "Before university, I represented my schools in quiz competitions: the National Brain Battle Quiz at junior high school, and the National Science & Maths Quiz at Tamale Senior High School, where I competed at the quarter-final stage of the national championship in 2023. It taught me to stay calm under time pressure and to work as part of a team.",
+    "I started my software engineering journey through training programs such as Afritech Hub in Ghana, where I mastered the fundamentals of full-stack development. I then began building websites for small businesses and progressively took on larger projects, including an e-commerce platform for Supermarkets.",
     "Recently I led the team that built the Aqua Vitae website, earned IBM-issued certificates in web development, Python and SQL through Coursera, and completed a National Geographic and Nature Conservancy externship on marine conservation. I'm now looking for a software engineering jobs and internships.",
   ],
 };
