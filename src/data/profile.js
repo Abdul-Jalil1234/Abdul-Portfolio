@@ -97,22 +97,41 @@ export const externship = {
 };
 
 export const projects = [
+   {
+    title: "Titan : E-commerce Platform",
+    des: "A full-stack store built with Next.js 16 and TypeScript: product catalogue with search and filters, persistent cart and wishlist, Clerk authentication, Stripe and cash-on-delivery checkout, order tracking, product reviews, email notifications, and an admin area with analytics, review moderation and data export.",
+    tags: ["Next.js", "TypeScript", "Clerk", "Stripe", "Sanity CMS", "Tailwind CSS", "Zustand"],
+    image: "/projects/titan.png",
+    //github: "https://github.com/Abdul-Jalil1234/shopcart-pro",
+    live: "https://titan-supermarket-store-git-master-abdul-digital-solutions.vercel.app",
+    role: "project owner and developer",
+  },
+   {
+    title: "Deal-TEMU-style Store",
+    des: "A full-stack TEMU-style e-commerce platform built with Next.js 16 and TypeScript:It composes of live flash-deal countdown timers, a category navigation bar, a daily spin-the-wheel promotion, a FastBot-powered support chat widget, an admin dashboard for orders, products and customers (access limited to an email allow-list), and Docker and deployment guides.",
+    tags: ["Next.js", "React", "TypeScript", "Prisma", "Sanity", "Stripe", "Docker"],
+    image: "/projects/temu.png",
+    //github: "https://github.com/Abdul-Jalil1234/Temu-clone-uprgrade/tree/feature/temu-upgrades",
+    live: "https://deal-online-store.vercel.app/",
+    // Keep this line. The base project is not yours and recruiters will check.
+    role: "Project owner and developer",
+  },
   {
     title: "BSE Specialisation Advisor",
     des: "A timed, scored quiz that matches incoming students to one of four software engineering specialisations: Low-Level Programming, AR/VR, Full-Stack and Machine Learning. Results appear as a radar chart and bar graph drawn directly on the Canvas API, with regex-validated forms and a light/dark theme.",
     tags: ["HTML5", "CSS3", "JavaScript", "Canvas API", "Regex"],
     image: "/projects/advisor.jpg",
-    github: "https://abdul-jalil1234.github.io/Bse-specialisation-Advisor/",
-    live: "",
-    role: "",
+    //github: "",
+    live: "https://abdul-jalil1234.github.io/Bse-specialisation-Advisor/",
+    role: "The project owner and developer",
   },
   {
     title: "Aqua Vitae Initiative Website",
     des: "A multi-page website built with my team to communicate our mission: improving healthcare in underprivileged rural African communities by making safe drinking water more accessible. Features a preloader, a dark/light theme and mission, support, updates and contact pages.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/aquavitae.jpg",
-    github: "https://abdul-jalil1234.github.io/Aqua-Vitae-Website/",
-    live: "",
+    //github: "",
+    live: "https://abdul-jalil1234.github.io/Aqua-Vitae-Website/",
     role: "Project lead · group project",
   },
   {
@@ -122,7 +141,7 @@ export const projects = [
     image: "/projects/book review.jpg",
     github: "https://github.com/Abdul-Jalil1234/expressBookReviews",
     live: "",
-    role: "",
+    role: "Project developer",
   },
 ];
 
@@ -135,32 +154,32 @@ export const miniProjects = [
     des: "The dice-rolling part of my Ludo game project. Choose how many dice to roll and see each result as a dice image, using a loop, Math.random() and DOM updates.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/dice.jpg",
-    github: "https://abdul-jalil1234.github.io/Ludo-game/",
-    live: "",
+    //github: "",
+    live: "https://abdul-jalil1234.github.io/Ludo-game/",
   },
   {
     title: "Calculator",
     des: "A calculator with digits, decimals and the four operators, a clear button, and an error message for invalid input.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/calc.jpg",
-    github: "https://abdul-jalil1234.github.io/calculator/",
-    live: "",
+    //github: "",
+    live: "https://abdul-jalil1234.github.io/calculator/",
   },
   {
     title: "Digital Clock",
     des: "A live 12-hour digital clock with AM/PM that updates every second, over a full-screen space background.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/clock.jpg",
-    github: "https://abdul-jalil1234.github.io/clock/",
-    live: "",
+    //github: "",
+    live: "https://abdul-jalil1234.github.io/clock/",
   },
   {
     title: "Stopwatch",
     des: "A stopwatch with start, stop and reset buttons that counts hours, minutes, seconds and hundredths of a second.",
     tags: ["HTML", "CSS", "JavaScript"],
     image: "/projects/stopwatch.jpg",
-    github: "https://abdul-jalil1234.github.io/stop-watch/",
-    live: "",
+    //github: "",
+    live: "https://abdul-jalil1234.github.io/stop-watch/",
   },
 ];
 
